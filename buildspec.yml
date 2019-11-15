@@ -22,5 +22,4 @@ phases:
       - echo postbuild
 artifacts:
   files:
-    - ./build/libs/**/*
-  discard-paths: yes
+    - ./build/libs/demoWarGradle-0.0.1-SNAPSHOT.war
